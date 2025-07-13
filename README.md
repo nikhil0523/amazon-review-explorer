@@ -16,3 +16,13 @@ Deployed using [Streamlit Cloud](https://streamlit.io/cloud).
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+Planned Enhancements:
+
+Expand product categories (e.g., electronics, personal care, etc.)
+
+Add review summarization using transformers
+
+Enable user-uploaded product review analysis
+
+Deploy on a custom domain.

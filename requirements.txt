@@ -1,12 +1,4 @@
 streamlit
 pandas
-spacy
-nltk
-gensim
 matplotlib
 seaborn
-scikit-learn
-numpy
-beautifulsoup4
-requests
-Pillow
